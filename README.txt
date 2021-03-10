@@ -1,4 +1,4 @@
-# BaiTap07
+
 
 1.
 Cho đoạn lệnh sau.
