@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+ void size (int a[])
+ {
+     cout << sizeof(a)/sizeof(int) << '\n';
+
+ }
+ int main(int argc, const char* argv[])
+ {
+     int a[100];
+     cout << sizeof(a)/sizeof(int) << '\n';
+     size(a);
+     return 0;
+ }
+ Ket luan : KHAC NHAU
